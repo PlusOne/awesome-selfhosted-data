@@ -1,0 +1,14 @@
+Name: hmac-file-server  
+Website URL: https://github.com/PlusOne/hmac-file-server  
+Description: A fully Go-written file server with HMAC-based authentication, supporting XEP-363.  
+Licenses:  
+  - MIT  
+Platforms:  
+  - Go  
+Tags:  
+  - File Storage  
+  - Security  
+  - HMAC  
+Source Code URL: https://github.com/PlusOne/hmac-file-server  
+Updated At: 2024-12-11  
+Archived: false
